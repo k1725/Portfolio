@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Web Development",
+      "description": "Building modern and responsive websites.",
+      "icon": "code"
+    },
+    {
+      "title": "App Development",
+      "description": "Creating custom mobile applications.",
+      "icon": "mobile"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Designing visually appealing user experiences.",
+      "icon": "design"
+    },
+    {
+      "title": "Backend Development",
+      "description": "Building robust server-side systems.",
+      "icon": "backend"
+    },
+    {
+      "title": "Cloud Integration",
+      "description": "Deploying apps to cloud infrastructure.",
+      "icon": "cloud"
+    },
+    {
+      "title": "Cybersecurity",
+      "description": "Keeping your apps safe and secure.",
+      "icon": "security"
+    }
+  ]
+  
