@@ -20,6 +20,7 @@ import InfoIcon from "@mui/icons-material/Info";
 import BuildIcon from "@mui/icons-material/Build";
 import WorkIcon from "@mui/icons-material/Work";
 import ContactMailIcon from "@mui/icons-material/ContactMail";
+import team1 from "../assets/team-1.jpeg";
 
 // ✅ Navigation items (ensure matching section IDs in your HTML/JSX)
 const navItems = [
@@ -60,7 +61,7 @@ const Header = () => {
           >
             <Box
               component="img"
-              src="src/assets/team-1.jpeg"
+              src={team1}
               alt="Logo"
               sx={{
                 width: 42,
